@@ -2,3 +2,5 @@ ultralytics
 opencv-python-headless
 gradio
 streamlit
+plotly
+pandas
