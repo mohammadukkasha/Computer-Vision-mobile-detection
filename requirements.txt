@@ -1,0 +1,1 @@
+ultralytics, opencv-python, gradio,smtplib
